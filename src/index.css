@@ -54,6 +54,7 @@ table th::before {
   margin: 0 auto;
   max-width: 1024px;
   width: 100%;
+  box-sizing: border-box;
 }
 
 .elipsis {

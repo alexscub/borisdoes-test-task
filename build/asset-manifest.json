@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/borisdoes-test-task/build/static/css/main.40c05c8a.chunk.css",
+    "main.css": "/borisdoes-test-task/build/static/css/main.f7146af4.chunk.css",
     "main.js": "/borisdoes-test-task/build/static/js/main.f93f01ea.chunk.js",
     "main.js.map": "/borisdoes-test-task/build/static/js/main.f93f01ea.chunk.js.map",
     "runtime-main.js": "/borisdoes-test-task/build/static/js/runtime-main.f9966d71.js",
@@ -10,13 +10,13 @@
     "static/js/3.98fa20c7.chunk.js": "/borisdoes-test-task/build/static/js/3.98fa20c7.chunk.js",
     "static/js/3.98fa20c7.chunk.js.map": "/borisdoes-test-task/build/static/js/3.98fa20c7.chunk.js.map",
     "index.html": "/borisdoes-test-task/build/index.html",
-    "static/css/main.40c05c8a.chunk.css.map": "/borisdoes-test-task/build/static/css/main.40c05c8a.chunk.css.map",
+    "static/css/main.f7146af4.chunk.css.map": "/borisdoes-test-task/build/static/css/main.f7146af4.chunk.css.map",
     "static/js/2.c1215899.chunk.js.LICENSE.txt": "/borisdoes-test-task/build/static/js/2.c1215899.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f9966d71.js",
     "static/js/2.c1215899.chunk.js",
-    "static/css/main.40c05c8a.chunk.css",
+    "static/css/main.f7146af4.chunk.css",
     "static/js/main.f93f01ea.chunk.js"
   ]
 }
